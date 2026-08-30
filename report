@@ -2,17 +2,15 @@
                           Illuminator's Report
 ------------------------------------------------------------------------
 
-Date of previous report: 2026-08-02
-Date of current  report: 2026-08-09
+Date of previous report: 2026-08-18
+Date of current  report: 2026-08-30
 
 CURRENT RADIANCE (self-ratifying)
 ========================================================================
-Cosmo               -   12
-Galle               -   56
-Kate                -   3
-literallyAmbiguous  -   3
-Mischief            -   3
-msh210              -   25
+Cosmo               -   6
+Kate                -   1
+Mischief            -   1
+msh210              -   12
 Murphy              -   25
 
 All other players   -   0
@@ -65,6 +63,15 @@ Mon 27 Jul 05:26:57 - Murphy              +7 (spendies)
 Wed 29 Jul 13:01:41 - Galle              +11 (spendies)
 Wed 29 Jul 13:01:41 - Galle              +25 (number cards)
 Fri 31 Jul 02:14:54 - msh210             +25 (number cards)
+Sun 16 Aug 16:02:18 - Murphy             +25 (number cards)
+Mon 17 Aug 00:56:51 - Galle              +25 (number cards)
+Mon 17 Aug 01:00:01 - Galle              +19 (spendies)
+Mon 17 Aug 01:00:01 - Galle             -100 (Outshining the Sun)
+Mon 17 Aug 01:00:01 - Cosmo               -6 (Galle Outshinined the Sun)
+Mon 17 Aug 01:00:01 - Kate                -6 (Galle Outshinined the Sun)
+Mon 17 Aug 01:00:01 - Mischief            -2 (Galle Outshinined the Sun)
+Mon 17 Aug 01:00:01 - msh210             -13 (Galle Outshinined the Sun)
+Mon 17 Aug 01:00:01 - Murphy             -25 (Galle Outshinined the Sun)
 
 WAYS TO GAIN RADIANCE
 ========================================================================
